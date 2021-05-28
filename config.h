@@ -6,7 +6,7 @@ static int centered = 1;                    /* -c option; centers dmenu on scree
 static int min_width = 700;                    /* minimum width when centered */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"Terminus:size=10",
+	"Dina:size=10",
 	"Siji",
 	"Noto Color Emoji:pixelsize=12:antialias=true:autohint=true"
 };
